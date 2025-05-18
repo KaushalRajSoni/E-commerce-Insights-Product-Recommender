@@ -1,4 +1,4 @@
-# E-commerce-Insights-Product-Recommendation-
+# E-commerce-Insights-Product-Recommender-
 This project focuses on analyzing e-commerce customer and sales data to derive business insights and build a product recommender system. The goal is to help e-commerce businesses better understand customer behavior, sales performance, and product dynamics, while also offering personalized product recommendations to increase user engagement and conversions.
 
 ## Methodology:
