@@ -19,3 +19,6 @@ Developed a comprehensive Power BI Dashboard featuring:
   Monthly and yearly trends in sales,
   Category-level product sales and revenue breakdown,
   KPI for AOV: 136.68.
+
+##  Dashboard Preview-
+<img width="2000" height="1156" alt="dashboard" src="https://github.com/user-attachments/assets/91192322-f03c-4046-ba41-9cf11088078d" />
